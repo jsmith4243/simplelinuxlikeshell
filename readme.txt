@@ -1,0 +1,1 @@
+gcc proc3vc.c -o smallsh
